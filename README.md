@@ -1,0 +1,6 @@
+- 👋 Hello there!
+- 🌟 I'm Cristian, a software developer passionate about web development and data.
+- 🚀 I love building cool projects and exploring new technologies!
+- 💡 Currently, I'm working on a portfolio.
+- 📫 You can reach me via [LinkedIn]((https://www.linkedin.com/in/cristian-petrila/))!
+- 🎮 When I'm not coding, you can find me gaming or playing ice hockey 🏒.
